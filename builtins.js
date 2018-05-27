@@ -201,6 +201,10 @@ module.exports = {
     "what are the paper restriction if I failed one or more of aut bcis paper?",
     "If I failed paper what I need to do next step?"
   ],
+  "condition of p2": [
+    "which course require p2 as a pre request?", 
+    "course with p2 pre request"
+  ],
   "condition of pdc": [
     "which courses require pdc as a pre request?",
     "course with pdc pre request"
@@ -212,18 +216,29 @@ module.exports = {
   "paper without pre request": [
     "pre request of ac",
     "pre request of COMM501 Applied Communication",
+    "pre request of Applied Communication",
+    "pre request of p1",
+    "pre request of COMM500 Programming 1",
+    "pre request of programming 1",
+    "pre request of programming1",
     "pre request of ctis",
     "pre request of COMP501 Computing Technology in Society",
+    "pre request of Computing Technology in Society",
     "pre request of foit",
     "pre request of COMP502 Foundations of IT Infrastructure",
+    "pre request of Foundations of IT Infrastructure",
     "pre request of es",
     "pre request of INFS500 Enterprise Systems",
+    "pre request of Enterprise Systems",
     "pre request of ccna1",
     "pre request of ENEL504 Computer Network Principles",
+    "pre request of Computer Network Principles",
     "pre request of itpm",
     "pre request of COMP600 IT Project Management",
+    "pre request of IT Project Management",
     "pre request of ahci",
-    "pre request of COMP719 Applied Human Computer Interaction"
+    "pre request of COMP719 Applied Human Computer Interaction",
+    "pre request of Applied Human Computer Interaction"
   ],
   "question format": [
     "question format",
@@ -233,5 +248,66 @@ module.exports = {
     "what can I do after graduate?",
     "after software development graduate?",
     "what papers from AUT BCIS are suitable for a specific IT related job?"
+  ],
+  "ask p2 pre request": [
+    "what is programming 2 pre request?",
+    "programming 2 pre request?",
+    "pre request of p2",
+    "pre request of programming2",
+    "pre request of programming 2"
+  ],
+  "ask dpm pre request": [
+    "what is dpm pre request?",
+    "dpm pre request?",
+    "pre request of dpm",
+    "pre request of Data Process Modelling"
+  ],
+  "ask ldd pre request": [
+    "what is ldd pre request?",
+    "ldd pre request?",
+    "pre request of ldd",
+    "pre request of Logical Database Design"
+  ],
+  "ask pdc pre request": [
+    "what is pdc pre request?",
+    "pdc pre request?",
+    "pre request of pdc",
+    "pre request of Program Design Construction"
+  ],
+  "ask sdp pre request": [
+    "what is sdp pre request?",
+    "sdp pre request?",
+    "pre request of sdp",
+    "pre request of Software Development Practice"
+  ],
+  "ask os pre request": [
+    "what is os pre request?",
+    "os pre request?",
+    "pre request of os",
+    "pre request of Operating Systems"
+  ],
+  "ask pdd pre request": [
+    "what is pdd pre request?",
+    "pdd pre request?",
+    "pre request of pdd",
+    "pre request of  Physical Database Design"
+  ],
+  "ask se pre request": [
+    "what is se pre request?",
+    "se pre request?",
+    "pre request of se",
+    "pre request of  Software Engineering"
+  ],
+  "ask wd pre request": [
+    "wd pre request?",
+    "what is wd pre request?",
+    "pre request of wd",
+    "pre request of Web Development"
+  ],
+  "ask dms pre request": [
+    "dms pre request?",
+    "what is dms pre request?",
+    "pre request of dms",
+    "pre request of Distributed Mobile Systems"
   ]
 };
